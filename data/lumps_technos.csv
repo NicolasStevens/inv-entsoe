@@ -1,0 +1,21 @@
+﻿;lump
+Nuclear/-;1000
+Gas/CCGT new;500
+Gas/CCGT old 2;400
+Gas/CCGT present 2;450
+Gas/CCGT present 1;450
+Gas/CCGT old 1;400
+Gas/OCGT new;300
+Gas/OCGT old;250
+Gas/conventional old 1;200
+Gas/conventional old 2;200
+Light oil/-;100
+Heavy oil/old 2;300
+Heavy oil/old 1;200
+Oil shale/new;250
+Hard coal/new;600
+Hard coal/old 1;550
+Hard coal/old 2;800
+Lignite/new;300
+Lignite/old 1;800
+Lignite/old 2;500
